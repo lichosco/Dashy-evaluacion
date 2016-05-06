@@ -1,0 +1,20 @@
+/*Inserta tu Codigo Responsive*/
+
+@media (max-width: 767px){
+.visible-xs {
+	margin-left: 40px;
+
+}
+.main-content
+{
+	width:100%;
+}
+
+
+.box0:hover
+{
+margin-left: 100px;
+
+
+}
+}
